@@ -1,2 +1,5 @@
 env/
 .ipynb_checkpoints/
+malaria_dataset/*/
+cell_images.zip
+.vscode/
