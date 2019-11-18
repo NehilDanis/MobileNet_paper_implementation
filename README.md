@@ -7,5 +7,8 @@ Please to try the application download the dataset and put it into the directory
 
 $ sudo unzip cell_images.zip
 $ sudo chown {user_name} -R cell_images
+//
+
+
 
 
